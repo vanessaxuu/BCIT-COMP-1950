@@ -2,7 +2,9 @@
         <!-- Heading Row -->
         <div class="row my-4">
           <div class="col-lg-8">
-            <img class="img-fluid" src="http://bcbc.com/images/bcit%20logo.png" alt="BCIT BANNER">
+            <a href="https://www.bcit.ca/" target="_blank">
+              <img class="img-fluid" src="http://bcbc.com/images/bcit%20logo.png" alt="BCIT BANNER">
+            </a>
           </div>
           <!-- /.col-lg-8 -->
           <div class="col-lg-4 text-center">

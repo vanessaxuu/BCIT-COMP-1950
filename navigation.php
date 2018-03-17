@@ -23,7 +23,8 @@
 
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item active">
+            <!-- PUT "active" class for current link -->
+            <li class="nav-item">
               <a class="nav-link" href="index.html">Home
                 <!-- Note: To display current page
                 <span class="sr-only">(current)</span>

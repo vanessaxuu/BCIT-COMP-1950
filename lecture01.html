@@ -105,15 +105,44 @@ Vanessa Xu
                         
                 </div>
                 <!-- ROW DIV END -->
+              <h3>Connect to your bcitcomp.ca account via FTP</h3>
+
+              <p class="lead">Use Filezilla, or any FTP client to connect to bcitcomp.ca. The bcitcomp.ca server provides you with a space on the internet where you can publish your homework and assignments.</p>
+
+              <ol>
+                  <li>Choose: <strong>File->SiteManager->New Site</strong>, then describe the FTP server, eg "bcitcomp.ca"</li>
+                  <li>Host: <strong>bcitcomp.ca</strong></li>
+                  <li>Port: <strong>21</strong></li>
+                  <li>User: <strong>{yourBCITStudentNumber}@bcitcomp.ca</strong> (use an uppercase <strong>A</strong> when typing your BCIT student number)</li>
+                  <li>Password: <strong>???</strong></li>
+                  <li>Servertype: <strong>FTP</strong> File Transfer Protocol</li>
+                  <li>LogonType: <strong>Normal</strong></li>
+                  <li>Click: <strong>Connect</strong></li>
+                  <li>If you experience connectivity problems, re-check your input, or ask your instructor for assistance.</li>
+              </ol>
+
+              <img src="images/filezilla.png" alt="Filezilla Screenshot">
+
+              <h3>Tools: Visual Studio Code</h3>
+              <p>
+                  There are several development tools to choose from. In COMP 1950 we will use the open source Integrated Devlopment Environment (IDE) from Microsoft called Visual Studio Code (VS Code). This is more than a simple text editor, it provides robust code editing, maintenance and testing features, as well as supporting plugins to further increase it's capabilities.
+              </p>
+              
+
         </div>
       </section>
 
     <!-- Page Content -->
-    <div class="container">
             <!-- Page Heading -->
-            <h2 class="my-4">Other Lectures</h2>
+
+            <div class="card text-white bg-secondary my-4 text-center">
+                    <div class="card-body">
+                        <p class="text-white m-0">Other Lectures</p>
+                      </div>
+                    </div>
 
 
+            <div class="container">
         <!-- LECTURES 2-10 -->
         <?php
             include("lectures2_10.php");	
