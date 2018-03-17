@@ -38,7 +38,7 @@
               <a class="nav-link" href="#">Lectures</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Quiz</a>
+              <a class="nav-link" href="quiz.html">Quiz</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="http://bcitcomp.ca/1950/about/" target="_blank">About</a>
