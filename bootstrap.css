@@ -3862,21 +3862,28 @@ tbody.collapse.show {
 .dropdown-content a{
   display: block;
   text-align: left;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  float: none;
+  color:#e9ecef;
 }
+
 .dropdown-content{
-  display:none;
-  position: relative;
+  display: none;
+  position: absolute;
+  background-color:#61aefe;
 }
 .nav-item:hover .dropdown-content{
 
-  display:list-item;
+  display:block;
+  color:white;
 }
-.nav-item a:hover{
 
+
+.nav-item a:hover{
   color:white;
   z-index: 1;
-
-
 }
 
 .nav-link:hover, .nav-link:focus {
