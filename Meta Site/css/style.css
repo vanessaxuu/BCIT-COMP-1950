@@ -71,22 +71,22 @@ h2 a:hover{
   -moz-box-shadow: 0px 0px 93px 5px rgba(255,255,255,1);
   box-shadow: 0px 0px 93px 5px rgba(255,255,255,1);
   /* Requirement: Gradient */
-    /* IE10+ */ 
+    /* IE10+ */
     background-image: -ms-linear-gradient(top right, #eaeaea 0%, #FFFFFF 50%, #eaeaea 100%);
 
-    /* Mozilla Firefox */ 
+    /* Mozilla Firefox */
     background-image: -moz-linear-gradient(top right, #eaeaea 0%, #FFFFFF 50%, #eaeaea 100%);
 
-    /* Opera */ 
+    /* Opera */
     background-image: -o-linear-gradient(top right, #eaeaea 0%, #FFFFFF 50%, #eaeaea 100%);
 
-    /* Webkit (Safari/Chrome 10) */ 
+    /* Webkit (Safari/Chrome 10) */
     background-image: -webkit-gradient(linear, right top, left bottom, color-stop(0, #eaeaea), color-stop(50, #FFFFFF), color-stop(100, #eaeaea));
 
-    /* Webkit (Chrome 11+) */ 
+    /* Webkit (Chrome 11+) */
     background-image: -webkit-linear-gradient(top right, #eaeaea 0%, #FFFFFF 50%, #eaeaea 100%);
 
-    /* W3C Markup */ 
+    /* W3C Markup */
     background-image: linear-gradient(to bottom left, #eaeaea 0%, #FFFFFF 50%, #eaeaea 100%);
 }
 
@@ -366,6 +366,16 @@ rt{
   }
 }
 
+.content-wrap h2.content-title {
+  text-align: left;
+  padding: 0;
+  font-weight: bold;
+}
+
+.content-wrap p {
+  text-align: left;
+  padding: 0;
+}
 
 /*Print Media Queries Styles*/
 @media print {
@@ -388,18 +398,18 @@ rt{
           }
   a{color: black;}
   a:link, a:visited {
-    /* if using color, make it dark! */	
+    /* if using color, make it dark! */
     color: black;
     /* make link text stand out */
     text-decoration: underline;
-    font-weight: bold;	
+    font-weight: bold;
   }
   /* never end a page with a heading! */
   h2, h2, h4, h5, h6{ 	page-break-after: avoid;	}
   #content, #endpage, #startpage {
     -webkit-box-shadow: none;
     -moz-box-shadow:    none;
-    box-shadow:         none; 
+    box-shadow:         none;
     text-shadow:        none;
   }
 }
