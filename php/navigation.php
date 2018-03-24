@@ -36,6 +36,18 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">Lectures</a>
+              <div class="dropdown-content">
+              <a href="lecture01.html" target="_blank">01: Tools &amp; Standards</a>
+              <a href="http://bcitcomp.ca/1950/lecture/02/" target="_blank">02: HTML5</a>
+              <a href="http://bcitcomp.ca/1950/lecture/03/" target="_blank">03: Advanced CSS</a>
+              <a href="http://bcitcomp.ca/1950/lecture/04/" target="_blank">04: CSS Layouts</a>
+              <a href="http://bcitcomp.ca/1950/lecture/05/" target="_blank">05: Responsive Design</a>
+              <a href="http://bcitcomp.ca/1950/lecture/06/" target="_blank">06: CSS3</a>
+              <a href="http://bcitcomp.ca/1950/lecture/07/" target="_blank">07: Javascript Frameworks</a>
+              <a href="http://bcitcomp.ca/1950/lecture/08/" target="_blank">08: Server Architecture</a>
+              <a href="http://bcitcomp.ca/1950/lecture/09/" target="_blank">09: Templates, Tools</a>
+              <a href="http://bcitcomp.ca/1950/lecture/10/" target="_blank">10: Methodology</a>
+              </div>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="quiz.html">Quiz</a>
