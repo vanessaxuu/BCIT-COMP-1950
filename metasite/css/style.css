@@ -172,9 +172,9 @@ h2 a:hover{
 /* Lists
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 ul {
-  list-style: circle inside; }
+  list-style-type: none; }
 ol {
-  list-style: decimal inside; }
+  list-style-type: none; }
 ol, ul {
   padding-left: 0;
   margin-top: 0; }
