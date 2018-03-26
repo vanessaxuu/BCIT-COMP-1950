@@ -106,7 +106,7 @@
               <div class="row">
                   <div class="col-md-7">
                     <a href="http://bcitcomp.ca/1950/lecture/07/" target="_blank">
-                      <img class="img-fluid rounded mb-3 mb-md-0" src="images/javascript_framework" alt="Javascript Frameworks">
+                      <img class="img-fluid rounded mb-3 mb-md-0" src="images/javascript_framework.jpg" alt="Javascript Frameworks">
                     </a>
                   </div>
                   <div class="col-md-5">
