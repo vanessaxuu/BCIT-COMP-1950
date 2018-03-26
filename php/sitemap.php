@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<meta name="author" content="Matt Everson of Astuteo, LLC – https://www.astuteo.com/slickmap" />
@@ -15,9 +13,9 @@
 		<h2>Preliminary Site Map &mdash; Version 1.0</h2>
 
 		<ul id="utilityNav">
-			<li><a href="/register">Register</a></li>
-			<li><a href="/login">Log In</a></li>
-			<li><a href="/sitemap">Site Map</a></li>
+			<li><a href="/">Register</a></li>
+			<li><a href="/">Log In</a></li>
+			<li><a href="/">Site Map</a></li>
 		</ul>
 
 		<ul id="primaryNav" class="col4">
