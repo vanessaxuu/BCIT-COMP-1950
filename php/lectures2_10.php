@@ -1,6 +1,6 @@
 
               <!-- Two -->
-              <div class="row">
+              <div class="row lectures2">
                 <div class="col-md-7">
                   <a href="http://bcitcomp.ca/1950/lecture/02/" target="_blank">
                     <img class="img-fluid rounded mb-3 mb-md-0" src="images/html5.jpg" alt="HTML5">
@@ -20,7 +20,7 @@
               <hr>
 
               <!-- Three -->
-              <div class="row">
+              <div class="row lectures2">
                   <div class="col-md-7">
                     <a href="http://bcitcomp.ca/1950/lecture/03/" target="_blank">
                       <img class="img-fluid rounded mb-3 mb-md-0" src="images/advanced_css.jpg" alt="Advanced CSS">
@@ -41,7 +41,7 @@
                 <hr>
 
                 <!-- Four -->
-                <div class="row">
+                <div class="row lectures2">
                     <div class="col-md-7">
                       <a href="http://bcitcomp.ca/1950/lecture/04/" target="_blank">
                         <img class="img-fluid rounded mb-3 mb-md-0" src="images/css_layout.jpg" alt="CSS Layouts">
@@ -61,7 +61,7 @@
                   <hr>
 
                   <!-- Five -->
-                  <div class="row">
+                  <div class="row lectures2">
                       <div class="col-md-7">
                         <a href="http://bcitcomp.ca/1950/lecture/05/" target="_blank">
                           <img class="img-fluid rounded mb-3 mb-md-0" src="images/responsive_design.jpg" alt="Responsive Design">
@@ -82,7 +82,7 @@
                     <hr>
 
               <!-- Six -->
-                <div class="row">
+                <div class="row lectures2">
                   <div class="col-md-7">
                     <a href="http://bcitcomp.ca/1950/lecture/06/" target="_blank">
                             <img class="img-fluid rounded mb-3 mb-md-0" src="images/css3.jpg" alt="CSS3">
@@ -103,7 +103,7 @@
               <hr>
 
               <!-- Seven -->
-              <div class="row">
+              <div class="row lectures2">
                   <div class="col-md-7">
                     <a href="http://bcitcomp.ca/1950/lecture/07/" target="_blank">
                       <img class="img-fluid rounded mb-3 mb-md-0" src="images/javascript_framework.jpg" alt="Javascript Frameworks">
@@ -125,7 +125,7 @@
               <hr>
 
               <!-- Eight -->
-              <div class="row">
+              <div class="row lectures2">
                   <div class="col-md-7">
                     <a href="http://bcitcomp.ca/1950/lecture/08/" target="_blank">
                       <img class="img-fluid rounded mb-3 mb-md-0" src="images/server_side.jpg" alt="Server Side">
@@ -145,7 +145,7 @@
                 <hr>
   
                 <!-- Nine -->
-                <div class="row">
+                <div class="row lectures2">
                     <div class="col-md-7">
                       <a href="http://bcitcomp.ca/1950/lecture/09/" target="_blank">
                         <img class="img-fluid rounded mb-3 mb-md-0" src="images/template.jpg" alt="Templates">
@@ -165,7 +165,7 @@
               <hr>
 
               <!-- Ten -->
-              <div class="row">
+              <div class="row lectures2">
                   <div class="col-md-7">
                     <a href="http://bcitcomp.ca/1950/lecture/10/" target="_blank">
                       <img class="img-fluid rounded mb-3 mb-md-0" src="images/methodology.jpg" alt="Methodology">
