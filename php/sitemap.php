@@ -1,4 +1,4 @@
-<body>
+
 	<div class="sitemap">
 
 		<h2>Site Map - Redesigned prototype website for BCIT COMP 1950 students</h2>
@@ -43,4 +43,4 @@
 		</ul>
 
 	</div>
-<body>
+
