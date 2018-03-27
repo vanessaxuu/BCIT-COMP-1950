@@ -9003,4 +9003,20 @@ a.text-dark:hover, a.text-dark:focus {
   .table-bordered td {
     border: 1px solid #ddd !important;
   }
+  .lectures2 .col-md-5 {
+        flex: 0 0 100%;
+        max-width: 100%;
+  }
+  .lectures2 .col-md-7 {
+        display: none;
+  }
+  .lectures2 .col-md-5 a.btn {
+        display: none;
+  }
+  .lectures2 ol {
+        margin-bottom: 0;
+  }
+  footer {
+        display: none;
+  }  
 }
