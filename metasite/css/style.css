@@ -169,6 +169,13 @@ h2 a:hover{
   padding: 2em;
 }
 
+/* Section F*/
+
+#section-f {
+  background: #fff;
+  color: #333;
+  padding: 2em;
+}
 /* Lists
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 ul {

@@ -2,7 +2,7 @@
         <div class="container">
 <!-- Material form contact -->
 <form>
-    <p class="h4 text-center mb-4">Quiz #1</p>
+    <h1 class="h4 text-center mb-4">Quiz #1</h1>
 
         <div class="form-row">
             <div class="col">
@@ -13,7 +13,7 @@
             </div>
         </div>
 
-    <form class="form-inline">
+    <div class="form-inline">
         <label class="my-1 mr-2" for="inlineFormCustomSelectPref">Name one brand of HTTP server (1 mark):</label>
             <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
                 <option selected>Choose...</option>
@@ -21,7 +21,7 @@
                 <option value="2">APACHE</option>
                 <option value="3">FILEZILLA</option>
             </select>
-    </form>
+    </div>
         <div class="form-group">
             <label for="exampleFormControlTextarea1">Describe one advantage of implementing an error 404 page (2 marks):</label>
             <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
@@ -37,7 +37,7 @@
             </select>
         </div>
 
-        <label for="exampleRadios">In server-side scripting the conditional execution of code can be accomplished using (1 mark):</label>
+        <label>In server-side scripting the conditional execution of code can be accomplished using (1 mark):</label>
         <div class="form-check">
             <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
             <label class="form-check-label" for="exampleRadios1">
@@ -60,7 +60,6 @@
         </div>
                 
     <button type="submit" class="btn btn-primary my-1">Submit</button>
-    </div>
 </form>
 <!-- Material form contact -->
 </div>

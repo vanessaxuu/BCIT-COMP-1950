@@ -1,16 +1,7 @@
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<meta name="description" content="Site Map - An example of a redesigned prototype website for BCIT COMP 1950 students.">
-	<meta name="author" content="Vanessa, Kayano and Ahmad">
-	<title>Site Map - BCIT COMP 1950::GROUP PROJECT::PROTOTYPE WEBSITE</title>
-	<link rel="stylesheet" type="text/css" media="screen, print" href="css/slickmap.css" />
-</head>
-
 <body>
-
 	<div class="sitemap">
 
-		<h1>Site Map - Redesigned prototype website for BCIT COMP 1950 students</h1>
+		<h2>Site Map - Redesigned prototype website for BCIT COMP 1950 students</h2>
 		<!--<h2>Preliminary Site Map &mdash; Version 1.0</h2>-->
 
 		<ul id="utilityNav">
@@ -52,5 +43,4 @@
 		</ul>
 
 	</div>
-
-</body>
+<body>
