@@ -6488,6 +6488,9 @@ button.bg-dark:focus {
   .d-print-none {
     display: none !important;
   }
+  .page-break	{ 
+    page-break-before:always !important;
+  }
   .d-print-inline {
     display: inline !important;
   }
