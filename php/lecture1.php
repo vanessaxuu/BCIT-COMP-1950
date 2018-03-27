@@ -1,5 +1,5 @@
 <!-- One -->
-              <div class="row">
+              <div class="row lectures2">
                 <div class="col-md-7">
                   <a href="lecture01.html">
                     <img class="img-fluid rounded mb-3 mb-md-0" src="https://msdnshared.blob.core.windows.net/media/2016/03/Symbol@2.gif" alt="Visual Studio Code">
